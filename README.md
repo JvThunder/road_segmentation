@@ -2,6 +2,10 @@
 
 This is a simple notebook segmenting roads using Unet based model.
 
+## Result
+
+[sample_image](road_seg_image.png)
+
 ## Dataset
 
 Here the present dataset in this repo is the subset(200 images and its masks) of the original dataset (Massachusetts Roads Dataset) consists of 1171 aerial images of the state of Massachusetts. Each image is 1500×1500 pixels in size, covering an area of 2.25 square kilometers
