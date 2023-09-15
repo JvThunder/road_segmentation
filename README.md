@@ -4,7 +4,7 @@ This is a simple notebook segmenting roads using Unet based model.
 
 ## Result
 
-[sample_image](road_seg_image.png)
+![sample_image](road_seg_image.png)
 
 ## Dataset
 
